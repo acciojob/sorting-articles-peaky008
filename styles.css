@@ -19,7 +19,13 @@
          margin-left: 8px;
           
        } 
-        .all{
+/*         .all{
             background-color:whitesmoke;
             width: 220px; 
-        }
+        } */
+li:nth-child(odd){
+               background-color:whitesmoke;
+             }
+#band{
+	
+}
