@@ -5,7 +5,9 @@
         background-size:260px 1000px;
         /* background-repeat:initial */
         
-         
+ #band{
+	 visibility:visible;
+ }        
         
           
        } 
@@ -25,7 +27,5 @@
         }
  
  
-	ul li:nth-child(2) {
-  color:  whitesmoke;
-}
+	 
   
