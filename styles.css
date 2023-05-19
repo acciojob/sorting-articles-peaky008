@@ -1,31 +1,4 @@
 /*  your css code here. If applicable */
- body{
-        background-image:url(https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/w/o/WOPA160517_D056-resized.jpg?crop=864%2C0%2C1728%2C2304&wid=600&hei=800&scl=2.88);
-        background-repeat:no-repeat;
-        background-size:260px 1000px;
-        /* background-repeat:initial */
-        
- #band{
-	 visibility:visible;
- }        
-        
-          
-       } 
-       .a1{
-        background-color: white;
-        display: inline-block;width:200px; height:25px;
-        padding-bottom:15px;
-        padding-top:2px ;
-         display: block;
-         margin-top: 3px;
-         margin-left: 8px;
-          
-       } 
-        .all{
-            background-color:whitesmoke;
-            width: 220px; 
-        }
- 
- 
-	 
-  
+  #band{
+	  visibility:visible;
+  }
