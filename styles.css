@@ -23,9 +23,9 @@
             background-color:whitesmoke;
             width: 220px; 
         }
-/* ul:nth-child(odd) li:nth-child(odd) {
+ 
+ #band{
+	ul:nth-child(odd) li:nth-child(odd) {
   color:  whitesmoke;
-} */
-/* #band{
-	
-} */
+}
+}  
